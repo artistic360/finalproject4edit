@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Orbitron:wght@400;700&display=swap");
+
+body{
+  background-image: url("../Media/images/separate-ways.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+ 
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  .about{
+    margin:auto
+}
+.about h1{ 
+    font-size: 40px;   
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    color: rgb(252, 252, 252);
+    background-color: rgb(100, 99, 99, .5);
+    border-width: 100%;
+    background-size: contain;
+    inline-size: 50%;
+    overflow: auto;
+    margin: auto;
+    text-align: center;
+}
+ 
+  .walkthrough{
+    margin:auto
+}
+.walkthrough h2{ 
+    font-size: 50px;   
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(252, 252, 252);
+    text-decoration: underline;
+}
+  
+  .ada pre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+    width: fit-content;
+     }
+
+     .audio{
+      display:block;
+  }
+  
+  .image1{
+    text-align: center;
+  }
+
+  img{
+    border: 10px solid #8b1e1e;
+  }

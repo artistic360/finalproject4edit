@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Orbitron:wght@400;700&display=swap");
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  .audio{
+    display:block;
+}
+
+body{
+    background-image: url("../Media/images/villagebackground.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ 
+    }
+
+.Introduction{
+    background-color: rgb(209, 196, 169, .5);
+    border-width: 100%;
+    background-size: contain;
+    inline-size: 50%;
+    overflow: auto;
+    margin: auto;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.yt{
+   display:block;
+    text-align: center;
+}

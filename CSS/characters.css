@@ -1,0 +1,264 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Orbitron:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gruppo&family=Orbitron:wght@400;700&display=swap");
+
+body{
+  background-image: url("../Media/images/Leonbackground.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  .audio{
+    display:block;
+} 
+
+.Leon{
+  margin: auto;
+text-align: center;
+}
+
+.Leon h1{
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Bebas Neue', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Leon p{
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Gruppo', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Leon img{
+  border: 10px solid #8d7833;
+}
+
+.Ada{
+  margin: auto;
+text-align: center;
+}
+
+.Ada h2{
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Bebas Neue', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Ada p{
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Gruppo', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Ada img{
+  border: 10px solid #812f3a;
+}
+
+.Ashley{
+  margin: auto;
+text-align: center;
+}
+
+.Ashley h3{
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Bebas Neue', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Ashley p{
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Gruppo', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Ashley img{
+  border: 10px solid #dd8533;
+}
+
+.Luis{
+  margin: auto;
+text-align: center;
+}
+
+.Luis h4 {
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Bebas Neue', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Luis p{
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Gruppo', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Luis img{
+  border: 10px solid #2e46ca;
+}
+
+
+.Os{
+  margin: auto;
+text-align: center;
+}
+
+.Os h5 {
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Bebas Neue', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Os p{
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Gruppo', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Os img{
+  border: 10px solid #512e91;
+}
+
+.Jack{
+  margin: auto;
+text-align: center;
+}
+
+.Jack h6 {
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Bebas Neue', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Jack p{
+  font-size: 40px;   
+  text-align: center;
+  font-family: 'Gruppo', sans-serif;
+  color: rgb(252, 252, 252);
+  background-color: rgb(100, 99, 99, .5);
+  border-width: 100%;
+  background-size: contain;
+  inline-size: 50%;
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.Jack img{
+  border: 10px solid #28582c;
+}
